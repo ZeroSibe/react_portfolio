@@ -17,20 +17,14 @@
   align-items: flex-start;
   color: var(--colour-text);
   z-index: 1;
+  margin: 5%;
 }
 
 .title {
-  font-size: 28px;
+  font-size: 30px;
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
-  background: linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 1) 70%,
-    rgba(255, 255, 255, 0) 120%
-  );
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
 }
 
 .description {
@@ -101,7 +95,7 @@
 }
 
 .heroImg {
-  width: 30%;
+  width: 25%;
   z-index: 1;
   animation-name: floating;
   animation-duration: 3s;
@@ -166,5 +160,9 @@
     flex-direction: column;
     gap: 23px;
     align-items: center;
+  }
+
+  .heroImg {
+    width: 40%;
   }
 }
