@@ -1,0 +1,42 @@
+[
+  {
+    "title": "NEWS",
+    "imageSrc": "projects/news.png",
+    "description": "A social news aggregation and discussion platform where users can post, comment on, and rate news articles. This project was created to enhance my understanding of full-stack development and highlights my ability to integrate with a backend News API while building an optimized, responsive, and accessible web application.",
+    "skills": ["React", "Node.js", "Axios", "CSS"],
+    "demo": "https://news-2025.netlify.app",
+    "source": "https://github.com/ZeroSibe/news"
+  },
+  {
+    "title": "NEWS API",
+    "imageSrc": "projects/news-api.png",
+    "description": "A RESTful news API that enables clients to retrieve news articles, explore various topics, and filter results using keywords. This project showcases my expertise in relational database management, API design, testing, and error handling.",
+    "skills": [
+      "React",
+      "Express",
+      "Node.js",
+      "PostgreSQL",
+      "Jest",
+      "Supertest",
+      "Supabase"
+    ],
+    "demo": "https://news-api-apvv.onrender.com/api/",
+    "source": "https://github.com/ZeroSibe/news-api"
+  },
+  {
+    "title": "Exhibution Curator",
+    "imageSrc": "projects/exhibition_curator.png",
+    "description": "Exhibition Curator is a platform where users can build their personal art collections by browsing two public art collections. This project demonstrates my ability to work with third-party APIs, manage dynamic data, and design responsive user interfaces.",
+    "skills": ["React", "Tailwind", "Node.js", "Axios", "Firebase"],
+    "demo": "https://2024-exhibition-curator.netlify.app",
+    "source": "https://github.com/ZeroSibe/exhibition_curator"
+  },
+  {
+    "title": "Deal Chasers",
+    "imageSrc": "projects/deal_chaser.png",
+    "description": "Deal Chasers is a dynamic mobile application built with React Native and Expo, allowing community members to share, discover, and exchange local deals, discounts, and offers. This project highlights my ability to build a NoSQL backend and integrate Google Maps into the frontend.",
+    "skills": ["React Native", "Expo", "Supabase", "Axios", "Docker"],
+    "video": "https://northcoders.com/project-phase/deal-chasers",
+    "source": "https://github.com/Code-Crafters-2024/fe-deal-chasers"
+  }
+]
