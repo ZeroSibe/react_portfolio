@@ -1,0 +1,58 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/psql.png"
+  },
+  {
+    "title": "Jest",
+    "imageSrc": "skills/jest.png"
+  },
+  {
+    "title": "Express JS",
+    "imageSrc": "skills/expressjs.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Supabase",
+    "imageSrc": "skills/supabase.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/ts.png"
+  },
+  {
+    "title": "React Native",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  }
+]
