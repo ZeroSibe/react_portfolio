@@ -6,6 +6,11 @@ import { useState } from "react";
 export const TechStack = () => {
   const [isBtnClicked, setIsBtnClicked] = useState(false);
   const [error, setError] = useState<Boolean>(false);
+
+  const handleError = () => {
+    setError(true);
+  };
+
   return (
     <section className={styles.container} id="tech-stack">
       <h2 className={styles.title}>Tech Stack</h2>
@@ -40,6 +45,7 @@ export const TechStack = () => {
               src={getImageUrl("qualifications/tami_cert.pdf")}
               title="PDF Viewer"
               className={styles.pdf_file}
+              onError={handleError}
             />
           )}
         </div>
