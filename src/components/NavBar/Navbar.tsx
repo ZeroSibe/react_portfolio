@@ -3,7 +3,7 @@ import { useState } from "react";
 import { getImageUrl } from "../../utils";
 
 export const Navbar = () => {
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isMenuOpen, setIsMenuOpen] = useState<Boolean>(false);
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
